@@ -1,0 +1,19 @@
+/* [project]/app/components/Navbar.module.css [app-client] (css) */
+.Navbar-module__pSp8Ga__navbar {
+  color: #fff;
+  background-color: #333;
+  padding: 1rem;
+}
+
+.Navbar-module__pSp8Ga__link {
+  color: #fff;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.Navbar-module__pSp8Ga__link:hover {
+  text-decoration: underline;
+}
+
+
+/*# sourceMappingURL=app_components_Navbar_module_abc60847.css.map*/

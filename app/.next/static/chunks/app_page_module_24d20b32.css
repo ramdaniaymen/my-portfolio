@@ -1,0 +1,24 @@
+/* [project]/app/page.module.css [app-client] (css) */
+.page-module__E0kJGG__title {
+  color: #00f;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.page-module__E0kJGG__subtitle {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.page-module__E0kJGG__photo {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 1rem auto;
+  display: block;
+}
+
+
+/*# sourceMappingURL=app_page_module_24d20b32.css.map*/

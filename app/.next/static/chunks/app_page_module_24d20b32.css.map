@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/React%20with%20Next.js/my-portfolio/app/page.module.css"],"sourcesContent":[".title {\r\n  color: blue;\r\n  font-size: 2rem;\r\n  text-align: center;\r\n}\r\n\r\n.subtitle {\r\n  font-size: 1.2rem;\r\n  text-align: center;\r\n  margin-top: 1rem;\r\n}\r\n\r\n.photo {\r\n  display: block;\r\n  margin: 1rem auto;\r\n  border-radius: 50%;\r\n  width: 150px;\r\n  height: 150px;\r\n  object-fit: cover;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;AAMA","debugId":null}}]
+}

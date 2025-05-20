@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/React%20with%20Next.js/my-portfolio/app/components/Navbar.tsx"],"sourcesContent":["'use client';\r\n\r\nimport Link from 'next/link';\r\nimport styles from './Navbar.module.css';\r\n\r\nexport default function Navbar() {\r\n  return (\r\n    <nav className={styles.navbar}>\r\n      <Link className={styles.navlink} href=\"/\">Home</Link>\r\n      <Link className={styles.navlink} href=\"/about\">About</Link>\r\n      <Link className={styles.navlink} href=\"/projects\">Projects</Link>\r\n      <Link className={styles.navlink} href=\"/contact\">Contact</Link>\r\n    </nav>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;;;;;;AAFA;;;;AAKe,SAAS;IACtB,qBACE,6LAAC;QAAI,WAAW,OAAO,MAAM;;0BAC3B,6LAAC,+JAAA,CAAA,UAAI;gBAAC,WAAW,OAAO,OAAO;gBAAE,MAAK;0BAAI;;;;;;0BAC1C,6LAAC,+JAAA,CAAA,UAAI;gBAAC,WAAW,OAAO,OAAO;gBAAE,MAAK;0BAAS;;;;;;0BAC/C,6LAAC,+JAAA,CAAA,UAAI;gBAAC,WAAW,OAAO,OAAO;gBAAE,MAAK;0BAAY;;;;;;0BAClD,6LAAC,+JAAA,CAAA,UAAI;gBAAC,WAAW,OAAO,OAAO;gBAAE,MAAK;0BAAW;;;;;;;;;;;;AAGvD;KATwB","debugId":null}}]
+}

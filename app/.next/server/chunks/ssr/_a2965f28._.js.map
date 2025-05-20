@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/page.module.css [app-rsc] (css module)"],"sourcesContent":["__turbopack_context__.v({\n  \"photo\": \"page-module__E0kJGG__photo\",\n  \"subtitle\": \"page-module__E0kJGG__subtitle\",\n  \"title\": \"page-module__E0kJGG__title\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/React%20with%20Next.js/my-portfolio/app/page.tsx"],"sourcesContent":["import Image from 'next/image';\r\nimport styles from './page.module.css';\r\n\r\nexport default function Home() {\r\n  return (\r\n    <main>\r\n      <h1 className={styles.title}>Welcome to My Portfolio</h1>\r\n      <Image\r\n        src=\"/images/port.jpg\" // حط صورة في public/myphoto.jpg\r\n        alt=\"My Photo\"\r\n        width={150}\r\n        height={150}\r\n        className={styles.photo}\r\n      />\r\n      <p className={styles.subtitle}>\r\n        Hello! Aymen, a web developer passionate about building modern web applications.\r\n      </p>\r\n    </main>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;AACA;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;gBAAG,WAAW,uHAAA,CAAA,UAAM,CAAC,KAAK;0BAAE;;;;;;0BAC7B,8OAAC,6HAAA,CAAA,UAAK;gBACJ,KAAI,mBAAmB,gCAAgC;;gBACvD,KAAI;gBACJ,OAAO;gBACP,QAAQ;gBACR,WAAW,uHAAA,CAAA,UAAM,CAAC,KAAK;;;;;;0BAEzB,8OAAC;gBAAE,WAAW,uHAAA,CAAA,UAAM,CAAC,QAAQ;0BAAE;;;;;;;;;;;;AAKrC","debugId":null}}]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/React%20with%20Next.js/my-portfolio/app/page.tsx"],"sourcesContent":["import Image from 'next/image';\r\nimport styles from './page.module.css';\r\n\r\nexport default function Home() {\r\n  return (\r\n    <main className={styles.main}>\r\n      <h1>Welcome to My Portfolio</h1>\r\n      <Image src=\"/images/profile.jpg\" alt=\"My Photo\" width={150} height={150} />\r\n      <p>Hello!  Aymen, a web developer passionate about building modern web applications.</p>\r\n    </main>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;;;;;;;AAGe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAW,OAAO,IAAI;;0BAC1B,8OAAC;0BAAG;;;;;;0BACJ,8OAAC,6HAAA,CAAA,UAAK;gBAAC,KAAI;gBAAsB,KAAI;gBAAW,OAAO;gBAAK,QAAQ;;;;;;0BACpE,8OAAC;0BAAE;;;;;;;;;;;;AAGT","debugId":null}}]
+}
